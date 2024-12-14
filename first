@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Passive Income Blog</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background: #5a67d8;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 2rem 0;
+        }
+        article {
+            background: #fff;
+            margin: 1rem 0;
+            padding: 1rem;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .ad {
+            margin: 2rem 0;
+            padding: 1rem;
+            text-align: center;
+            background: #e2e8f0;
+            border: 2px dashed #cbd5e0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Blog</h1>
+        <p>Your go-to source for amazing content and ideas!</p>
+    </header>
+    <div class="container">
+        <article>
+            <h2>How to Start Earning Passive Income</h2>
+            <p>Passive income is the holy grail of financial freedom. Learn how to start building revenue streams today!</p>
+        </article>
+
+        <!-- Example Ad Placeholder -->
+        <div class="ad">
+            <p>Your Ad Here</p>
+            <!-- Insert AdSense or affiliate code here -->
+        </div>
+
+        <article>
+            <h2>Top 5 Business Ideas for 2024</h2>
+            <p>Explore the most promising business ideas for the upcoming year and how you can take advantage of them.</p>
+        </article>
+    </div>
+</body>
+</html>
